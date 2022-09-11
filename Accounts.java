@@ -615,6 +615,7 @@ int Reponse = JOptionPane.showConfirmDialog(this, "Do you want to close the prog
         if (Reponse == JOptionPane.YES_OPTION) {
         
             System.exit(0);         // TODO add your handling code here:
+    }
     }//GEN-LAST:event_jLabel11MouseClicked
 int Key;
     
